@@ -7838,6 +7838,11 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
+mode-sass@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/mode-sass/-/mode-sass-1.0.0.tgz#bd17961811ce07cef952832ad71e9298e603ecc0"
+  integrity sha512-8WyMSRWO6X1PWj8YrzmtsK4RBcbr1iuRWL/1kSqz0H7Nz4DPnNzq13agkjS8g8tif3PpKsy+3v0Ta2gsGQ6Hgw==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
